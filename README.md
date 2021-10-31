@@ -206,6 +206,6 @@ The Submission Link is available under ASSESMENT INFORMATION/RESOURCES Section o
 Late submissions will receive late penalties in line with the late penalty policy, see EECS handbook and QMUL assessment handbook.
 
 ### Specific Instructions:
-1. To get half of the marks, your code should be fully functional with atleast Question No. 1 solved completely.
+1. To get half of the marks, your code should be fully functional with at least Question No. 1 solved completely.
 
 ## Good Luck!
